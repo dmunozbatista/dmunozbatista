@@ -3,8 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dmunozbatista&label=Profile%20views&color=0e75b6&style=flat" alt="dmunozbatista" /> </p>
 
+- 🔭 I’m currently working on [Visualizations for poverty in Mexico](https://github.com/dmunozbatista/Poverty_Mexico_Interactive_Vis)
+
+- 🌱 I’m currently learning **DBT, and NLP**
+
+- 📫 How to reach me **d.munozb@outlook.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/daniel-munozb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-munozb" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/d_munozb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="d_munozb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
